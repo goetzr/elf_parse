@@ -1,0 +1,10 @@
+[package]
+name = "my_elf_lib"
+version = "0.1.0"
+edition = "2024"
+description = """
+An ELF parser.
+"""
+
+[dependencies]
+byteorder = "1.5.0"
